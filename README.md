@@ -1,7 +1,7 @@
 html
 <div>
   <pre>
-    <code id="codeBlock"><a>https://github.com/sanjeev249-cry/portfolio</a></code>
+    <code id="codeBlock">[link]https://github.com/sanjeev249-cry/portfolio</code>
   </pre>
   <button onclick="copyToClipboard()">Copy to Clipboard</button>
 </div>
