@@ -1,0 +1,78 @@
+body{
+margin-left:350px;
+margin-right:450px;
+}
+#email{
+text-indent:20px;
+margin-top:25px;
+margin-bottom:-38px;
+}
+#phone{
+text-indent:360px;
+margin-bottom:-15px;
+margin-top:25px;
+}
+#location{
+text-indent:20px;
+margin-top:-10px;
+margin-bottom:-38px;
+}
+#date{
+text-indent:360px;
+padding:4px;
+margin-top:-15px;
+}
+h3{
+margin-top:-10px;
+margin-bottom:-5px;
+font-family:sans-serif;
+}
+hr{
+height:2px;
+background-color:black;
+width:600px;
+}
+.edu{
+padding-top:15px;
+margin-bottom:25px;
+}
+.edu-place {
+  position: absolute;
+  left: 500px;
+  top:210px;
+  width: 200px;
+  height: 120px;
+}
+.skills
+{
+padding-top:15px;
+margin-bottom:25px;
+}
+.skills2
+{
+position: absolute;
+left: 500px;
+top:410px;
+padding-top:15px;
+margin-bottom:25px;
+}
+#id{
+font-style:italic;
+}
+.project{
+  font-size:12px;
+  position: absolute;
+  left: 500px;
+  bottom:25px;
+  width: 450px;
+  height: 10px;
+}
+.org{
+position:absolute;
+left:500px;
+top:855px;
+}
+.cert{
+fornt-size:900px;
+}
+
