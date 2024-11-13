@@ -1,18 +1,18 @@
-html
 <div>
-  <pre>
-    <code id="codeBlock">[link]https://github.com/sanjeev249-cry/portfolio</code>
-  </pre>
-  <button onclick="copyToClipboard()">Copy to Clipboard</button>
+  <pre><code id="codeText"></code></pre>
+  <button onclick="copyText()">Copy to Clipboard</button>
 </div>
 
 <script>
-function copyToClipboard() {
-  const codeBlock = document.getElementById("codeBlock").textContent;
-  navigator.clipboard.writeText(codeBlock).then(() => {
+function copyText() {
+  // Get the text from the <code> element
+  const codeText = document.getElementById("codeText").textContent;
+
+  // Use the Clipboard API to copy the text
+  navigator.clipboard.writeText(codeText).then(() => {
     alert("Copied to clipboard!");
+  }).catch(err => {
+    console.error("Could not copy text: ", err);
   });
 }
 </script>
-
-this repo contanins complete html and css resume template
