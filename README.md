@@ -1,10 +1,7 @@
-# portfolio
-## click on the url to redirect to the code repo
-### Example Code Block with Copy Button
 html
 <div>
   <pre>
-    <code id="codeBlock">https://github.com/sanjeev249-cry/portfolio</code>
+    <code id="codeBlock"><a>https://github.com/sanjeev249-cry/portfolio</a></code>
   </pre>
   <button onclick="copyToClipboard()">Copy to Clipboard</button>
 </div>
