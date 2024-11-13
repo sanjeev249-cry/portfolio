@@ -26,11 +26,10 @@
 <body>
     <div class="container">
         <p>Click the button below to copy the repository clone link:</p>
-        <pre><code id="codeText">git clone https://github.com/username/repo.git</code></pre>
+        <pre><code id="codeText">https://github.com/sanjeev249-cry/portfolio.git</code></pre>
         <button onclick="copyText()">Copy to Clipboard</button>
     </div>
-
-    <script>
+     <script>
         function copyText() {
             // Get the text from the <code> element
             const codeText = document.getElementById("codeText").textContent;
