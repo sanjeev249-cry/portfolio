@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"
           <div class="container">
         <p>Click the button below to copy the repository clone link:</p>
-        <pre><code id="codeText">[](https://github.com/sanjeev249-cry/portfolio)</code></pre>
+        <pre><code id="codeText">https://github.com/sanjeev249-cry/portfolio</code></pre>
         <button onclick="copyLink()">Copy to Clipboard</button>
     </div>
 </head>
