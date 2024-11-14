@@ -15,7 +15,7 @@
 
 
 ## Project URL
-[Live Demo](https://github.com/sanjeev249-cry/portfolio)
+[project URL](https://github.com/sanjeev249-cry/portfolio)
 
 
 [https://github.com/sanjeev249-cry/portfolio](https://github.com/sanjeev249-cry/portfolio)
