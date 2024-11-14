@@ -12,3 +12,7 @@
 <body>
 </body>
 </html>
+step:-1 write the code on code editor with your specifications 
+step:-2 using different tags highlight the content 
+step:-3 save file with .html extension 
+step:-4 push it to github
